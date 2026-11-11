@@ -5,7 +5,7 @@ CreatorFlow Marketplace CLI - 发布技能和应用到市场
 ## 安装
 
 ```bash
-npm install -g @anthropic/cfm-cli
+npm install -g @dcfuture/cfm-cli
 ```
 
 ## 配置
